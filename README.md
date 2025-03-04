@@ -12,3 +12,4 @@ This Power BI project provides deep insights into global YouTube statistics, ana
 ✅ Interactive Visualizations – Includes dynamic charts, heatmaps, and KPIs for data-driven storytelling.
 ![image alt](
 https://github.com/pavankul1/Global_Youtube_Statistics_Power_BI/blob/17f4377d8fbab4604dc8d89ce1bd5db4e8bcff73/Screenshot%202024-12-18%20154716.png )
+![image alt](https://github.com/pavankul1/Global_Youtube_Statistics_Power_BI/blob/main/Screenshot%202024-12-18%20154822.png?raw=true)
